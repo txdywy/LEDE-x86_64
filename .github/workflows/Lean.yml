@@ -1,7 +1,7 @@
 #=================================================
 # Description: Build OpenWrt using GitHub Actions
 # Lisence: MIT
-# Author: kenzo
+# Author: kenzo.
 #=================================================
 
 name: Lean_x86_64
