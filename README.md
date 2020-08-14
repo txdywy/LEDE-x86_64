@@ -5,15 +5,15 @@
 *   三合一固件编译，若fork本人仓库，进入你仓库地址按右上角Star,触发编译
 
 *   三合一固件编译，一次性编译
-*   Lean  的源码(5.4.50) 
+*   Lean  的源码(5.4.5*) ---天天更新代码，云编译都要累吐了！
 *   Lienol的源码(4.14.187) 
-*   ctc te的源码(4.19.132)
+*   ctc te的源码(4.19.138)
 
 ##### 固件下载链接
 
-- [Lienol固件下载地址](https://github.com/kenzok8/LEDE-x86_64/actions?query=workflow%3ALienol.x86_64)
+- [Lienol 固件下载地址](https://github.com/kenzok8/LEDE-x86_64/actions?query=workflow%3ALienol.x86_64)
 - [Lean  固件下载地址](https://github.com/kenzok8/LEDE-x86_64/actions?query=workflow%3ALean_x86_64)
-- [ctc  固件下载地址](https://github.com/kenzok8/LEDE-x86_64/actions?query=workflow%3Actc.x86_64)
+- [ctc   固件下载地址](https://github.com/kenzok8/LEDE-x86_64/actions?query=workflow%3Actc.x86_64)
 
 
 ### 默认插件包含:
@@ -22,9 +22,10 @@
 + passwall
 + clash
 + openclash
-+ AdguardHome DNS+恶意网址过滤
++ AdguardHome DNS+恶意网址过滤 （打包在ipk文件里）
 + 动态DDNS
-+ SmartDNS 域名解析加速+抗污染
++ 京东签到
++ SmartDNS 域名解析加速+抗污染 （打包在ipk文件里）
 + UPNP 自动端口转发
 + Netdata 全能性能监控
 + Turbo ACC 网络加速
